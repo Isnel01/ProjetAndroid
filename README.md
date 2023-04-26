@@ -25,3 +25,18 @@ Dans le dispositif mis en place les accès essentiels sont les suivants
 
 ![android5](https://user-images.githubusercontent.com/125742984/234565653-f4bdbd47-9fd1-42ae-ae08-9ed0a8101bb2.PNG)
 
+Le projet a été réalisé avec Android Studio pour le FrontEnd et IntelliJ pour le BackEnd en plus d'un serveur Xampp.
+
+# FrontEnd
+
+![android7](https://user-images.githubusercontent.com/125742984/234567472-b7fe6926-21df-4e00-b444-ef3bec62f2c0.PNG)
+
+# BackEnd
+
+![android6](https://user-images.githubusercontent.com/125742984/234567490-49744245-6daa-44e5-b4f4-888af458f97e.PNG)
+
+# Serveur
+
+![android8](https://user-images.githubusercontent.com/125742984/234567600-f18bb31c-d31f-482d-9b7f-1fc98363bb51.PNG)
+
+
